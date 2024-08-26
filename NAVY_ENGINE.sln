@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SandBox", "SandBox\SandBox.vcxproj", "{2FED2488-B026-44AB-BC60-F32976ABA13E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NAVY_ENGINE", "NAVY_ENGINE\NAVY_ENGINE.vcxproj", "{058FE4E3-EE32-4067-B7E6-3A83DFE5B833}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{058FE4E3-EE32-4067-B7E6-3A83DFE5B833}.Debug|x64.ActiveCfg = Debug|x64
+		{058FE4E3-EE32-4067-B7E6-3A83DFE5B833}.Debug|x64.Build.0 = Debug|x64
+		{058FE4E3-EE32-4067-B7E6-3A83DFE5B833}.Release|x64.ActiveCfg = Release|x64
+		{058FE4E3-EE32-4067-B7E6-3A83DFE5B833}.Release|x64.Build.0 = Release|x64
+		{2FED2488-B026-44AB-BC60-F32976ABA13E}.Debug|x64.ActiveCfg = Debug|x64
+		{2FED2488-B026-44AB-BC60-F32976ABA13E}.Debug|x64.Build.0 = Debug|x64
+		{2FED2488-B026-44AB-BC60-F32976ABA13E}.Release|x64.ActiveCfg = Release|x64
+		{2FED2488-B026-44AB-BC60-F32976ABA13E}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB36AB5B-320C-4D6B-89FD-FA0996C3B35A}
+	EndGlobalSection
+EndGlobal
